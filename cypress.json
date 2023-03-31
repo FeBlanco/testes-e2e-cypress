@@ -6,5 +6,6 @@
   "chromeWebSecurity": false,
   "defaultCommandTimeout": 150000,
   "experimentalSessionSupport": true,
-  "experimentalStudio": true
+  "experimentalStudio": true,
+  "projectId": "umqzbt"
 }
