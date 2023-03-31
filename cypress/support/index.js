@@ -14,6 +14,7 @@
 // ***********************************************************
 
 // Import commands.js using ES2015 syntax:
+require("cypress-grep")()
 import "cypress-mailosaur"
 import "cypress-file-upload"
 import "cypress-iframe"
